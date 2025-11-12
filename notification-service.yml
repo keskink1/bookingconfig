@@ -1,7 +1,0 @@
-app:
-  version: "1.0.0"
-  name: "Notification Service Development Team"
-  message: "Notification service up and ready to schedule appointments"
-  contact:
-    owner: "Notification Team"
-    email: "dev-support@keskink.com"
