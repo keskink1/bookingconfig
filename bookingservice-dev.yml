@@ -1,0 +1,7 @@
+app:
+  version: "1.0.0"
+  name: "Booking Service Development Team"
+  message: "Booking service up and ready to schedule appointments"
+  contact:
+    owner: "Booking Team"
+    email: "dev-support@keskink.com"
