@@ -1,5 +1,5 @@
 app:
-  version: "1.0.0"
+  version: "2.0.0"
   name: "Booking Service Development Team"
   message: "Booking service up and ready to schedule appointments"
   contact:
